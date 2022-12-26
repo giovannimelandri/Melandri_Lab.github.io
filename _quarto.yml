@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: rendered
 
 website:
-  title: "Melandri_Lab.github.io"
+  title: "Melandri Lab @ the University of Arizona"
   navbar:
     left:
       - href: index.qmd

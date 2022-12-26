@@ -1,5 +1,10 @@
 ---
-title: "Melandri_Lab.github.io"
+title: "Melandri Lab"
+image: picture_1.jpg
+about:
+  template: solana
+  image-width: 30em
+  image-shape: rectangle
 ---
 
 This is a Quarto website.
